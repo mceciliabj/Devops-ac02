@@ -1,4 +1,5 @@
 # Devops-aula02
-Will Smith
-Adam Sandler
-Robin Williams
+Will Smith <br>
+Taís Araujo <br>
+Robin Williams <br>
+Giovanna Antonelli <br>
